@@ -54,7 +54,7 @@ Aparecera el proyecto en la carpeta local
 
 Se comenzará a ejecutar el proyecto
 
-Si se quiere actualizar el correo utilice el comando en la terminal: npx cypress run
+Si se quiere actualizar el video utilice el comando en la terminal: npx cypress run
 
     
 
